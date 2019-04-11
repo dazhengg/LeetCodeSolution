@@ -1,1 +1,0 @@
-So, finding the max subarray, we have to iterate it in O(n) time by checking all "avail" options as we iterate through and if the cur_sum is < the next sum given then we know that it can be increased upon where the new cur max gets assigned the "better" value 
